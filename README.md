@@ -1,211 +1,144 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0a0a0f,50:1e1b4b,100:312e81&height=220&section=header&text=Adarsh%20Parmar&fontSize=60&fontColor=ffffff&fontAlignY=40&animation=fadeIn&desc=Full%20Stack%20Developer%20%E2%80%94%20SaaS%20%7C%20AI%20Integration%20%7C%20Multi-Portal%20Systems&descSize=15&descAlignY=62&descColor=c7d2fe" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,100:6366f1&height=200&section=header&text=Adarsh%20Parmar&fontSize=52&fontColor=ffffff&fontAlignY=38&desc=Full%20Stack%20Developer%20%7C%20SaaS%20Builder%20%7C%20AI%20Integration%20Specialist&descSize=16&descAlignY=60&descColor=a5b4fc" width="100%"/>
 
 </div>
 
 <div align="center">
 
-<a href="https://theadarsh-dev.netlify.app/"><img src="https://img.shields.io/badge/Portfolio-0a0a0f?style=for-the-badge&logo=vercel&logoColor=white" /></a>&nbsp;
-<a href="https://www.linkedin.com/in/adarsh-parmar-161960288"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>&nbsp;
-<a href="mailto:adarshparmar.business@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>&nbsp;
-<a href="mailto:adarshparmar.business@gmail.com"><img src="https://img.shields.io/badge/Open%20to%20Remote%20Work-22c55e?style=for-the-badge&logo=checkmarx&logoColor=white" /></a>
-
-<br/><br/>
-
-![Profile Views](https://komarev.com/ghpvc/?username=adarsh-parmar&color=6366f1&style=flat-square&label=Profile+Views)
-![Years Badge](https://img.shields.io/badge/Experience-3.5%2B%20Years-6366f1?style=flat-square)
-![Countries Badge](https://img.shields.io/badge/Clients%20Across-5%2B%20Countries-818cf8?style=flat-square)
+[![Portfolio](https://img.shields.io/badge/🌐_Portfolio-000000?style=for-the-badge&logoColor=white)](https://theadarsh-dev.netlify.app/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/adarsh-parmar-161960288)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:adarshparmar.business@gmail.com)
+[![Hire Me](https://img.shields.io/badge/🚀_Available_for_Remote_Work-22c55e?style=for-the-badge)](mailto:adarshparmar.business@gmail.com)
 
 </div>
 
 ---
 
-## ⚡ Who Am I
+## 👋 About Me
 
-I'm a **Full Stack Developer** who ships production-grade SaaS platforms — not demos, not prototypes. I've delivered for clients in the **US, UK, UAE, Singapore, and Thailand**, building everything from AI-powered micro-SaaS tools to 4-portal enterprise systems.
+I'm a **Full Stack Developer with 3.5+ years of experience** building production-grade SaaS platforms, event management systems, and AI-powered web applications for clients across the **US, UK, UAE, Singapore, and Thailand**.
 
-My stack is modern, my timelines are real, and my code goes to production.
+I specialize in turning complex business problems into clean, scalable products — from architecture to deployment. My clients get shipping-ready code, not prototypes.
 
-<br/>
-
-<div align="center">
-
-| 🏗️ | ⚡ | 🌍 | 🤖 | 🔄 |
-|:---:|:---:|:---:|:---:|:---:|
-| **20+** Production Apps | **30 min → 3 min** CI/CD | **5+** Country Client Base | **OpenAI & Claude** in Production | **3** Zero-Downtime Migrations |
-
-</div>
+```
+🏗️  Built 20+ production applications across 5+ countries
+⚡  Reduced deployment time from 30 min → 3 min via CI/CD automation  
+🌍  Delivered SaaS dashboards for 10,000+ concurrent users (99.5% uptime)
+🤖  Integrated OpenAI & Claude APIs into live production products
+🔄  Led 3 zero-downtime AngularJS → Vue.js migrations
+```
 
 ---
 
 ## 🛠️ Tech Stack
 
-<div align="center">
+### Frontend
+![React](https://img.shields.io/badge/React.js-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white)
+![Vue.js](https://img.shields.io/badge/Vue.js-35495E?style=flat-square&logo=vue.js&logoColor=4FC08D)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white)
+![Vuetify](https://img.shields.io/badge/Vuetify-1867C0?style=flat-square&logo=vuetify&logoColor=white)
 
-**Frontend**
+### Backend & Database
+![Node.js](https://img.shields.io/badge/Node.js-43853D?style=flat-square&logo=node.js&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-404D59?style=flat-square&logo=express&logoColor=white)
+![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=flat-square&logo=mongodb&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white)
+![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=flat-square&logo=graphql&logoColor=white)
 
-![Vue.js](https://img.shields.io/badge/Vue.js-1a1a2e?style=for-the-badge&logo=vue.js&logoColor=4FC08D)
-![React](https://img.shields.io/badge/React-1a1a2e?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Next.js](https://img.shields.io/badge/Next.js-1a1a2e?style=for-the-badge&logo=next.js&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-1a1a2e?style=for-the-badge&logo=typescript&logoColor=3B82F6)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-1a1a2e?style=for-the-badge&logo=tailwind-css&logoColor=38BDF8)
-![Vuetify](https://img.shields.io/badge/Vuetify-1a1a2e?style=for-the-badge&logo=vuetify&logoColor=1867C0)
+### AI & Integrations
+![OpenAI](https://img.shields.io/badge/OpenAI_API-412991?style=flat-square&logo=openai&logoColor=white)
+![Claude](https://img.shields.io/badge/Claude_API-CC785C?style=flat-square&logoColor=white)
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logoColor=white)
+![Stripe](https://img.shields.io/badge/Stripe-626CD9?style=flat-square&logo=stripe&logoColor=white)
+![Razorpay](https://img.shields.io/badge/Razorpay-02042B?style=flat-square&logo=razorpay&logoColor=3395FF)
 
-**Backend & Data**
-
-![Node.js](https://img.shields.io/badge/Node.js-1a1a2e?style=for-the-badge&logo=node.js&logoColor=68A063)
-![Express.js](https://img.shields.io/badge/Express.js-1a1a2e?style=for-the-badge&logo=express&logoColor=white)
-![GraphQL](https://img.shields.io/badge/GraphQL-1a1a2e?style=for-the-badge&logo=graphql&logoColor=E10098)
-![Supabase](https://img.shields.io/badge/Supabase-1a1a2e?style=for-the-badge&logo=supabase&logoColor=3ECF8E)
-![MongoDB](https://img.shields.io/badge/MongoDB-1a1a2e?style=for-the-badge&logo=mongodb&logoColor=47A248)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-1a1a2e?style=for-the-badge&logo=postgresql&logoColor=336791)
-
-**AI & Payments**
-
-![OpenAI](https://img.shields.io/badge/OpenAI_API-1a1a2e?style=for-the-badge&logo=openai&logoColor=white)
-![Claude](https://img.shields.io/badge/Claude_API-1a1a2e?style=for-the-badge&logoColor=CC785C)
-![LangChain](https://img.shields.io/badge/LangChain-1a1a2e?style=for-the-badge&logoColor=1C3C3C)
-![Stripe](https://img.shields.io/badge/Stripe-1a1a2e?style=for-the-badge&logo=stripe&logoColor=626CD9)
-![Razorpay](https://img.shields.io/badge/Razorpay-1a1a2e?style=for-the-badge&logo=razorpay&logoColor=3395FF)
-
-**DevOps & Deployment**
-
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-1a1a2e?style=for-the-badge&logo=github-actions&logoColor=white)
-![Vercel](https://img.shields.io/badge/Vercel-1a1a2e?style=for-the-badge&logo=vercel&logoColor=white)
-![Netlify](https://img.shields.io/badge/Netlify-1a1a2e?style=for-the-badge&logo=netlify&logoColor=00C7B7)
-![Firebase](https://img.shields.io/badge/Firebase-1a1a2e?style=for-the-badge&logo=firebase&logoColor=FFCA28)
-
-</div>
+### DevOps & Deployment
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2671E5?style=flat-square&logo=github-actions&logoColor=white)
+![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=flat-square&logo=netlify&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)
 
 ---
 
 ## 🚀 Featured Projects
 
-<table>
-<tr>
-<td width="50%" valign="top">
+### [SuperReach — AI Micro SaaS Builder](https://superreach.com/)
+> AI-powered platform where users generate fully functional micro-SaaS apps via a ChatGPT-like interface
 
-### 🤖 [SuperReach — AI SaaS Builder](https://superreach.com/)
-
-> Users describe an app in plain English. SuperReach builds it.
-
-A ChatGPT-style interface that generates fully functional micro-SaaS products — complete app logic, workflows, and user-specific features from a single prompt. Built on a JSON-driven UI architecture with event-based automation triggers for no-code workflow creation.
-
-`Next.js` `OpenAI API` `Supabase` `TypeScript` `Tailwind CSS`
-
-</td>
-<td width="50%" valign="top">
-
-### 🎪 Orgeven — Enterprise Event SaaS
-
-> 4-portal system shipped against a single deadline
-
-Super-Admin · Event-Admin · Supplier · Guest portals built simultaneously. Multi-language support across 7 languages enabled the client to expand into 3 new regional markets within months of launch.
-
-`Vue.js` `React.js` `Node.js` `MongoDB` `i18n`
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-### 🎓 [Teamie — University Management App](https://theteamie.com/)
-
-> Zero-downtime AngularJS → Vue.js migration on a live platform
-
-60% of views migrated with zero QA-reported regressions. Parallel legacy bug resolution reduced the backlog by **45% in 6 weeks** — without pausing feature development.
-
-`Vue.js` `Node.js` `Express.js` `MongoDB`
-
-</td>
-<td width="50%" valign="top">
-
-### 📋 My-ENotes & Crucial Reminders — SaaS Productivity Suite
-
-> Real-time notes + task manager with a full RBAC reminders system
-
-Role-based access control, real-time sync across sessions, and multi-language support. Designed for teams where data access boundaries and accountability matter.
-
-`Vue.js` `Supabase` `PostgreSQL` `i18n`
-
-</td>
-</tr>
-</table>
+**Stack:** Next.js · OpenAI API · Supabase · TypeScript · Tailwind CSS  
+Built a JSON-driven UI architecture where AI generates entire app logic, workflows, and user-specific features from prompts. Includes event-based automation triggers — users build no-code workflow apps.
 
 ---
 
-## 💼 Services
+### [Orgeven — Multi-Portal Event Management SaaS] ()
+> 4-portal system for enterprise event management: Super-Admin + Event-Admin + Supplier + Guest portals
 
-<div align="center">
-
-| | Service | Deliverable |
-|:---:|:---|:---|
-| 🏗️ | **SaaS MVP Development** | Full-stack app from design to deployment in 4–8 weeks |
-| 🤖 | **AI Feature Integration** | OpenAI / Claude chatbots, content generators, and automations |
-| 🔄 | **Legacy App Migration** | AngularJS / jQuery → React / Vue with zero downtime guaranteed |
-| 🌐 | **Multi-Portal Systems** | Role-based dashboards for complex, multi-stakeholder workflows |
-| ⚙️ | **API & Backend Development** | RESTful APIs, GraphQL, Supabase, serverless functions |
-| 🚀 | **Performance Optimization** | Code splitting, caching, lazy loading — measurable Core Web Vitals gains |
-
-</div>
+**Stack:** Vue.js · React.js · Node.js · MongoDB · i18n  
+Shipped all 4 portals against a single deadline. Multi-language support (7 languages) enabled client expansion into 3 new regional markets post-launch.
 
 ---
 
-## 📊 GitHub Stats
+### [Teamie — University Management App](https://theteamie.com/)
+> Zero-downtime AngularJS → Vue.js migration for a live production platform
 
-<div align="center">
+**Stack:** Vue.js · Node.js · Express.js · MongoDB  
+Migrated 60% of views with zero QA-reported regressions. Reduced legacy bug backlog by 45% within 6 weeks.
 
-<img height="160" src="https://github-readme-stats.vercel.app/api?username=adarsh-parmar&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d0d1a&title_color=818cf8&icon_color=6366f1&text_color=c7d2fe&ring_color=6366f1" />
-&nbsp;&nbsp;
-<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=adarsh-parmar&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d0d1a&title_color=818cf8&text_color=c7d2fe" />
+---
 
-<br/>
+### [My-ENotes & Crucial Reminders — SaaS Productivity Suite]()
+> Real-time notes/task manager + Super-Admin reminders system with RBAC
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=adarsh-parmar&theme=tokyonight&hide_border=true&background=0d0d1a&ring=6366f1&fire=818cf8&currStreakLabel=c7d2fe&sideLabels=c7d2fe&dates=6b7280" />
+**Stack:** Vue.js · Supabase · PostgreSQL · i18n  
+Full role-based access control, real-time sync, and multi-language support across both tools.
 
-</div>
+---
+
+
+
+## 💼 What I Build for Clients
+
+| Service | What You Get |
+|---|---|
+| 🏗️ **SaaS MVP Development** | Full-stack app from design to deployment in 4–8 weeks |
+| 🤖 **AI Integration** | OpenAI / Claude API chatbots, content generators, automations |
+| 🔄 **Legacy App Migration** | AngularJS / jQuery → React / Vue with zero downtime |
+| 🌐 **Multi-Portal Systems** | Role-based dashboards for complex business workflows |
+| ⚙️ **API & Backend Development** | RESTful APIs, GraphQL, Supabase, serverless functions |
+| 🚀 **Performance Optimization** | Code splitting, caching, lazy loading, Core Web Vitals |
 
 ---
 
 ## 🌍 Work Preferences
 
 ```yaml
-Type:          Full-time Remote  |  Contract  |  Freelance
-Availability:  Immediate to 1 month notice
-Timezone:      IST (UTC+5:30) — overlap with EU / AU / US EST is possible
+Employment:    Full-time Remote | Contract | Freelance
+Availability:  Immediate to 1 month
+Timezone:      IST (UTC+5:30) — overlap with EU/AU/US EST possible
 Markets:       US · UK · EU · Australia · Singapore · UAE
-Communication: English (Fluent) · Daily async updates · Weekly sync calls
+Communication: English (Fluent) | Daily async updates | Weekly sync calls
 ```
 
 ---
 
-## 📬 Let's Build Something
+## 📬 Let's Work Together
 
-Got a SaaS idea, a legacy app that needs modernizing, or a product that needs AI features built in?
+Got a SaaS idea, a legacy app that needs modernizing, or a product that needs AI features?
 
 **I reply within 24 hours.**
 
-<div align="center">
+[![Email Me](https://img.shields.io/badge/📧_Email_Me-adarshparmar.business@gmail.com-6366f1?style=for-the-badge)](mailto:adarshparmar.business@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/💼_Connect_on_LinkedIn-0A66C2?style=for-the-badge)](https://www.linkedin.com/in/adarsh-parmar-161960288)
+[![Portfolio](https://img.shields.io/badge/🌐_View_Portfolio-000000?style=for-the-badge)](https://theadarsh-dev.netlify.app/)
 
-<a href="mailto:adarshparmar.business@gmail.com">
-  <img src="https://img.shields.io/badge/📧%20Email%20Me-adarshparmar.business%40gmail.com-6366f1?style=for-the-badge" />
-</a>
-&nbsp;
-<a href="https://www.linkedin.com/in/adarsh-parmar-161960288">
-  <img src="https://img.shields.io/badge/💼%20Connect%20on%20LinkedIn-0A66C2?style=for-the-badge" />
-</a>
-&nbsp;
-<a href="https://theadarsh-dev.netlify.app/">
-  <img src="https://img.shields.io/badge/🌐%20View%20Portfolio-0a0a0f?style=for-the-badge" />
-</a>
-
-</div>
-
-<br/>
+---
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:312e81,100:0a0a0f&height=110&section=footer" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6366f1,100:0f172a&height=100&section=footer" width="100%"/>
 
 </div>

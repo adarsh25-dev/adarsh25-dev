@@ -66,7 +66,7 @@ I specialize in turning complex business problems into clean, scalable products 
 
 ## 🚀 Featured Projects
 
-### [SuperReach — AI Micro SaaS Builder](https://github.com/adarsh25-dev/superreach)
+### [SuperReach — AI Micro SaaS Builder](https://superreach.com/)
 > AI-powered platform where users generate fully functional micro-SaaS apps via a ChatGPT-like interface
 
 **Stack:** Next.js · OpenAI API · Supabase · TypeScript · Tailwind CSS  
@@ -74,7 +74,7 @@ Built a JSON-driven UI architecture where AI generates entire app logic, workflo
 
 ---
 
-### [Orgeven — Multi-Portal Event Management SaaS](https://github.com/adarsh25-dev/orgeven)
+### [Orgeven — Multi-Portal Event Management SaaS]
 > 4-portal system for enterprise event management: Super-Admin + Event-Admin + Supplier + Guest portals
 
 **Stack:** Vue.js · React.js · Node.js · MongoDB · i18n  
@@ -82,7 +82,7 @@ Shipped all 4 portals against a single deadline. Multi-language support (7 langu
 
 ---
 
-### [Teamie — University Management App](https://github.com/adarsh25-dev/teamie)
+### [Teamie — University Management App](https://theteamie.com/)
 > Zero-downtime AngularJS → Vue.js migration for a live production platform
 
 **Stack:** Vue.js · Node.js · Express.js · MongoDB  
@@ -90,7 +90,7 @@ Migrated 60% of views with zero QA-reported regressions. Reduced legacy bug back
 
 ---
 
-### [My-ENotes & Crucial Reminders — SaaS Productivity Suite](https://github.com/adarsh25-dev/my-enotes)
+### [My-ENotes & Crucial Reminders — SaaS Productivity Suite].
 > Real-time notes/task manager + Super-Admin reminders system with RBAC
 
 **Stack:** Vue.js · Supabase · PostgreSQL · i18n  

@@ -7,7 +7,7 @@
 <div align="center">
 
 [![Portfolio](https://img.shields.io/badge/🌐_Portfolio-000000?style=for-the-badge&logoColor=white)](https://theadarsh-dev.netlify.app/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/YOUR_LINKEDIN)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/adarsh-parmar-161960288)
 [![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:adarshparmar.business@gmail.com)
 [![Hire Me](https://img.shields.io/badge/🚀_Available_for_Remote_Work-22c55e?style=for-the-badge)](mailto:adarshparmar.business@gmail.com)
 
@@ -132,7 +132,7 @@ Got a SaaS idea, a legacy app that needs modernizing, or a product that needs AI
 **I reply within 24 hours.**
 
 [![Email Me](https://img.shields.io/badge/📧_Email_Me-adarshparmar.business@gmail.com-6366f1?style=for-the-badge)](mailto:adarshparmar.business@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/💼_Connect_on_LinkedIn-0A66C2?style=for-the-badge)](https://linkedin.com/in/YOUR_LINKEDIN)
+[![LinkedIn](https://img.shields.io/badge/💼_Connect_on_LinkedIn-0A66C2?style=for-the-badge)](https://www.linkedin.com/in/adarsh-parmar-161960288)
 [![Portfolio](https://img.shields.io/badge/🌐_View_Portfolio-000000?style=for-the-badge)](https://theadarsh-dev.netlify.app/)
 
 ---

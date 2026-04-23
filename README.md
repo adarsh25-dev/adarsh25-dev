@@ -74,7 +74,7 @@ Built a JSON-driven UI architecture where AI generates entire app logic, workflo
 
 ---
 
-### [Orgeven — Multi-Portal Event Management SaaS]
+### [Orgeven — Multi-Portal Event Management SaaS] ()
 > 4-portal system for enterprise event management: Super-Admin + Event-Admin + Supplier + Guest portals
 
 **Stack:** Vue.js · React.js · Node.js · MongoDB · i18n  
@@ -90,7 +90,7 @@ Migrated 60% of views with zero QA-reported regressions. Reduced legacy bug back
 
 ---
 
-### [My-ENotes & Crucial Reminders — SaaS Productivity Suite].
+### [My-ENotes & Crucial Reminders — SaaS Productivity Suite]()
 > Real-time notes/task manager + Super-Admin reminders system with RBAC
 
 **Stack:** Vue.js · Supabase · PostgreSQL · i18n  

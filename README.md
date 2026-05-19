@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,100:6366f1&height=220&section=header&text=Adarsh%20Parmar&fontSize=52&fontColor=ffffff&fontAlignY=36&desc=AI%20Full-Stack%20Engineer%20%C2%B7%20Next.js%20%C2%B7%20Supabase%20%C2%B7%20OpenAI%20%2F%20Claude%20%C2%B7%20Stripe%20%7C%20Shipping%20production%20AI%20SaaS%20for%20global%20teams%20%C2%B7%20Open%20for%20remote%20contracts&descSize=15&descAlignY=60&descColor=c7d2fe" width="100%"/> -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,100:6366f1&height=220&section=header&text=Adarsh%20Parmar&fontSize=52&fontColor=ffffff&fontAlignY=36&desc=AI%20Full-Stack%20Engineer%20%C2%B7%20Next.js%20%C2%B7%20Supabase%20%C2%B7%20AOpenAI%20%2F%20Claude%20%C2%B7%20Stripe%20%7C%20Open%20for%20remote%20contracts&descSize=15&descAlignY=60&descColor=c7d2fe" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,100:6366f1&height=220&section=header&text=Adarsh%20Parmar&fontSize=52&fontColor=ffffff&fontAlignY=36&desc=AI%20Full-Stack%20Engineer%20%C2%B7%20Next.js%20%C2%B7%20Supabase%20%C2%B7%20OpenAI%20%2F%20Claude%20%C2%B7%20Stripe%20%7C%20Open%20for%20remote%20contracts&descSize=15&descAlignY=60&descColor=c7d2fe" width="100%"/>
 
 </div>
 

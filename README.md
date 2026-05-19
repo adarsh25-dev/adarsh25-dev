@@ -7,9 +7,9 @@
 <br/>
 
 [![Portfolio](https://img.shields.io/badge/%F0%9F%8C%90_Portfolio-21262d?style=for-the-badge&logoColor=white)](https://theadarsh-dev.netlify.app/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/adarsh-parmar-161960288)
-[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:adarshparmar.business@gmail.com)
-[![Available](https://img.shields.io/badge/%F0%9F%9A%80_Available_for_Remote_Work-22c55e?style=for-the-badge)](mailto:adarshparmar.business@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/adarshparmar)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:adarshparmar.dev@gmail.com)
+[![Available](https://img.shields.io/badge/%F0%9F%9A%80_Available_for_Remote_Work-22c55e?style=for-the-badge)](mailto:adarshparmar.dev@gmail.com)
 
 </div>
 

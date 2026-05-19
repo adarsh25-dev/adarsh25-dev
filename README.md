@@ -16,19 +16,10 @@
 
 ---
 
-## 👋 About Me
+## 🛠 What I Build
 
-I'm a **Full Stack Developer with 3.5+ years of experience** building production-grade SaaS platforms, event management systems, and AI-powered web applications for clients across the **US, UK, UAE, Singapore, and Thailand**.
-
-I specialize in turning complex business problems into clean, scalable products — from architecture to deployment. My clients get shipping-ready code, not prototypes.
-
-```
-🏗️  Built 20+ production applications across 5+ countries
-⚡  Reduced deployment time from 30 min → 3 min via CI/CD automation  
-🌍  Delivered SaaS dashboards for 10,000+ concurrent users (99.5% uptime)
-🤖  Integrated OpenAI & Claude APIs into live production products
-🔄  Led 3 zero-downtime AngularJS → Vue.js migrations
-```
+**AI-powered SaaS**, end-to-end. RAG pipelines, streaming chat, eval harnesses,
+multi-tenant Supabase, Stripe billing, and observable production systems.
 
 ---
 

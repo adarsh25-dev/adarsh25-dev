@@ -1,16 +1,15 @@
 <div align="center">
 
-<!-- <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,100:6366f1&height=220&section=header&text=Adarsh%20Parmar&fontSize=52&fontColor=ffffff&fontAlignY=36&desc=AI%20Full-Stack%20Engineer%20%C2%B7%20Next.js%20%C2%B7%20Supabase%20%C2%B7%20OpenAI%20%2F%20Claude%20%C2%B7%20Stripe%20%7C%20Shipping%20production%20AI%20SaaS%20for%20global%20teams%20%C2%B7%20Open%20for%20remote%20contracts&descSize=15&descAlignY=60&descColor=c7d2fe" width="100%"/> -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,100:6366f1&height=220&section=header&text=Adarsh%20Parmar&fontSize=52&fontColor=ffffff&fontAlignY=36&desc=AI%20Full-Stack%20Engineer%20%C2%B7%20Next.js%20%C2%B7%20Supabase%20%C2%B7%20OpenAI%20%2F%20Claude%20%C2%B7%20Stripe%20%7C%20Open%20for%20remote%20contracts&descSize=15&descAlignY=60&descColor=c7d2fe" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d0d1a,40:1a1040,80:0d2040,100:0a1628&height=200&section=header&text=Adarsh%20Parmar&fontSize=56&fontColor=ffffff&fontAlignY=42&desc=AI%20Full-Stack%20Engineer&descAlignY=62&descSize=18&animation=twinkling&fontAlign=50" />
 
-</div>
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=15&pause=1200&color=7C3AED&center=true&vCenter=true&width=620&lines=Next.js+%C2%B7+Supabase+%C2%B7+OpenAI+%2F+Claude+%C2%B7+Stripe;Building+production+AI+SaaS+for+global+teams;RAG+pipelines+%C2%B7+streaming+chat+%C2%B7+multi-tenant+auth;Open+for+remote+contracts+%E2%80%94+EST+%2F+PST+overlap)](https://git.io/typing-svg)
 
-<div align="center">
+<br/>
 
-[![Portfolio](https://img.shields.io/badge/🌐_Portfolio-000000?style=for-the-badge&logoColor=white)](https://theadarsh-dev.netlify.app/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/adarsh-parmar-161960288)
-[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:adarshparmar.business@gmail.com)
-[![Hire Me](https://img.shields.io/badge/🚀_Available_for_Remote_Work-22c55e?style=for-the-badge)](mailto:adarshparmar.business@gmail.com)
+[![Email](https://img.shields.io/badge/adarshparmar.dev%40gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:adarshparmar.dev@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/adarshparmar)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=flat-square&logo=vercel&logoColor=white)](https://adarshparmar.dev)
+[![Open to Work](https://img.shields.io/badge/Open%20to%20Remote%20Contracts-16a34a?style=flat-square&logo=checkmarx&logoColor=white)](#)
 
 </div>
 
@@ -18,119 +17,120 @@
 
 ## 🛠 What I Build
 
-**AI-powered SaaS**, end-to-end. RAG pipelines, streaming chat, eval harnesses,
-multi-tenant Supabase, Stripe billing, and observable production systems.
-
----
-
-## 🛠️ Tech Stack
-
-### Frontend
-![React](https://img.shields.io/badge/React.js-20232A?style=flat-square&logo=react&logoColor=61DAFB)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white)
-![Vue.js](https://img.shields.io/badge/Vue.js-35495E?style=flat-square&logo=vue.js&logoColor=4FC08D)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white)
-![Vuetify](https://img.shields.io/badge/Vuetify-1867C0?style=flat-square&logo=vuetify&logoColor=white)
-
-### Backend & Database
-![Node.js](https://img.shields.io/badge/Node.js-43853D?style=flat-square&logo=node.js&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-404D59?style=flat-square&logo=express&logoColor=white)
-![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=flat-square&logo=mongodb&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white)
-![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=flat-square&logo=graphql&logoColor=white)
-
-### AI & Integrations
-![OpenAI](https://img.shields.io/badge/OpenAI_API-412991?style=flat-square&logo=openai&logoColor=white)
-![Claude](https://img.shields.io/badge/Claude_API-CC785C?style=flat-square&logoColor=white)
-![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logoColor=white)
-![Stripe](https://img.shields.io/badge/Stripe-626CD9?style=flat-square&logo=stripe&logoColor=white)
-![Razorpay](https://img.shields.io/badge/Razorpay-02042B?style=flat-square&logo=razorpay&logoColor=3395FF)
-
-### DevOps & Deployment
-![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2671E5?style=flat-square&logo=github-actions&logoColor=white)
-![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=flat-square&logo=netlify&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)
+**AI-powered SaaS, end-to-end.** RAG pipelines, streaming chat, eval harnesses, multi-tenant Supabase, Stripe billing, and observable production systems — from zero to shipped.
 
 ---
 
 ## 🚀 Featured Projects
 
-### [SuperReach — AI Micro SaaS Builder](https://superreach.com/)
-> AI-powered platform where users generate fully functional micro-SaaS apps via a ChatGPT-like interface
-
-**Stack:** Next.js · OpenAI API · Supabase · TypeScript · Tailwind CSS  
-Built a JSON-driven UI architecture where AI generates entire app logic, workflows, and user-specific features from prompts. Includes event-based automation triggers — users build no-code workflow apps.
-
----
-
-### [Orgeven — Multi-Portal Event Management SaaS] ()
-> 4-portal system for enterprise event management: Super-Admin + Event-Admin + Supplier + Guest portals
-
-**Stack:** Vue.js · React.js · Node.js · MongoDB · i18n  
-Shipped all 4 portals against a single deadline. Multi-language support (7 languages) enabled client expansion into 3 new regional markets post-launch.
-
----
-
-### [Teamie — University Management App](https://theteamie.com/)
-> Zero-downtime AngularJS → Vue.js migration for a live production platform
-
-**Stack:** Vue.js · Node.js · Express.js · MongoDB  
-Migrated 60% of views with zero QA-reported regressions. Reduced legacy bug backlog by 45% within 6 weeks.
-
----
-
-### [My-ENotes & Crucial Reminders — SaaS Productivity Suite]()
-> Real-time notes/task manager + Super-Admin reminders system with RBAC
-
-**Stack:** Vue.js · Supabase · PostgreSQL · i18n  
-Full role-based access control, real-time sync, and multi-language support across both tools.
-
----
-
-
-
-## 💼 What I Build for Clients
-
-| Service | What You Get |
-|---|---|
-| 🏗️ **SaaS MVP Development** | Full-stack app from design to deployment in 4–8 weeks |
-| 🤖 **AI Integration** | OpenAI / Claude API chatbots, content generators, automations |
-| 🔄 **Legacy App Migration** | AngularJS / jQuery → React / Vue with zero downtime |
-| 🌐 **Multi-Portal Systems** | Role-based dashboards for complex business workflows |
-| ⚙️ **API & Backend Development** | RESTful APIs, GraphQL, Supabase, serverless functions |
-| 🚀 **Performance Optimization** | Code splitting, caching, lazy loading, Core Web Vitals |
+<table>
+  <tr>
+    <td valign="top" width="33%">
+      <h3>🏗️ <a href="https://github.com/adarsh25-dev/nextjs-supabase-ai-saas-starter">AI SaaS Starter</a></h3>
+      <p>Production-ready starter — auth, billing, streaming AI, and full observability out of the box.</p>
+      <p>
+        <img src="https://img.shields.io/badge/Next.js_14-000?style=flat-square&logo=nextdotjs" />
+        <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white" />
+        <img src="https://img.shields.io/badge/Stripe-635BFF?style=flat-square&logo=stripe&logoColor=white" />
+        <img src="https://img.shields.io/badge/Sentry-362D59?style=flat-square&logo=sentry&logoColor=white" />
+        <img src="https://img.shields.io/badge/PostHog-F54E00?style=flat-square" />
+      </p>
+    </td>
+    <td valign="top" width="33%">
+      <h3>🔍 <a href="https://github.com/adarsh25-dev/claude-rag-template">Claude RAG Template</a></h3>
+      <p>RAG without LangChain bloat — pgvector + streaming citations. Clean, fast, production-grade.</p>
+      <p>
+        <img src="https://img.shields.io/badge/Claude-D97706?style=flat-square" />
+        <img src="https://img.shields.io/badge/pgvector-4169E1?style=flat-square&logo=postgresql&logoColor=white" />
+        <img src="https://img.shields.io/badge/Vercel_AI_SDK-000?style=flat-square&logo=vercel" />
+        <img src="https://img.shields.io/badge/NVIDIA-76B900?style=flat-square&logo=nvidia&logoColor=white" />
+      </p>
+    </td>
+    <td valign="top" width="33%">
+      <h3>💻 <a href="https://github.com/adarsh25-dev/vue-quasar-saas-dashboard">Vue SaaS Dashboard</a></h3>
+      <p>Dark-first, glass-UI SaaS dashboard with i18n in 4 languages and full TypeScript coverage.</p>
+      <p>
+        <img src="https://img.shields.io/badge/Vue_3-42b883?style=flat-square&logo=vuedotjs&logoColor=white" />
+        <img src="https://img.shields.io/badge/Quasar_v2-1976D2?style=flat-square&logo=quasar&logoColor=white" />
+        <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" />
+        <img src="https://img.shields.io/badge/Pinia-FFD859?style=flat-square" />
+      </p>
+    </td>
+  </tr>
+</table>
 
 ---
 
-## 🌍 Work Preferences
+## 💼 Recent Production Work
 
-```yaml
-Employment:    Full-time Remote | Contract | Freelance
-Availability:  Immediate to 1 month
-Timezone:      IST (UTC+5:30) — overlap with EU/AU/US EST possible
-Markets:       US · UK · EU · Australia · Singapore · UAE
-Communication: English (Fluent) | Daily async updates | Weekly sync calls
+| Client | Impact |
+|:---|:---|
+| **SuperReach** | Architected an AI Micro-SaaS builder generating functional apps from prompts — Next.js + Supabase + OpenAI + Claude |
+| **NexusLink Services** | Scaled SaaS dashboards to **10K+ concurrent users**; integrated Stripe + Razorpay processing **50K+ daily transactions** |
+| **Albiorix Technology** | Led zero-downtime AngularJS → Vue 3 migration — **60% migrated, zero rollback events** |
+
+---
+
+## ⚙️ Tech Stack
+
+**AI / LLM**
+
+![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white)
+![Anthropic Claude](https://img.shields.io/badge/Anthropic_Claude-D97706?style=flat-square)
+![Vercel AI SDK](https://img.shields.io/badge/Vercel_AI_SDK-000?style=flat-square&logo=vercel&logoColor=white)
+![RAG](https://img.shields.io/badge/RAG_Pipelines-4F46E5?style=flat-square)
+![pgvector](https://img.shields.io/badge/pgvector-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+![Embeddings](https://img.shields.io/badge/Embeddings-6D28D9?style=flat-square)
+![Streaming](https://img.shields.io/badge/Streaming_Chat-0EA5E9?style=flat-square)
+![Function Calling](https://img.shields.io/badge/Function_Calling-059669?style=flat-square)
+
+**Frontend**
+
+![Next.js](https://img.shields.io/badge/Next.js_14-000?style=flat-square&logo=nextdotjs&logoColor=white)
+![React](https://img.shields.io/badge/React_18-61DAFB?style=flat-square&logo=react&logoColor=black)
+![Vue 3](https://img.shields.io/badge/Vue_3-42b883?style=flat-square&logo=vuedotjs&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
+![shadcn/ui](https://img.shields.io/badge/shadcn%2Fui-000?style=flat-square)
+![Framer Motion](https://img.shields.io/badge/Framer_Motion-0055FF?style=flat-square&logo=framer&logoColor=white)
+
+**Backend & Database**
+
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
+![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=flat-square&logo=graphql&logoColor=white)
+![REST](https://img.shields.io/badge/REST_APIs-FF6B35?style=flat-square)
+
+**Payments & Infra**
+
+![Stripe](https://img.shields.io/badge/Stripe-635BFF?style=flat-square&logo=stripe&logoColor=white)
+![Razorpay](https://img.shields.io/badge/Razorpay-02042B?style=flat-square&logo=razorpay&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-000?style=flat-square&logo=vercel&logoColor=white)
+![Upstash Redis](https://img.shields.io/badge/Upstash_Redis-00E9A3?style=flat-square)
+![Sentry](https://img.shields.io/badge/Sentry-362D59?style=flat-square&logo=sentry&logoColor=white)
+![PostHog](https://img.shields.io/badge/PostHog-F54E00?style=flat-square)
+![Resend](https://img.shields.io/badge/Resend-000?style=flat-square)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white)
+
+---
+
+## 📍 Open For
+
 ```
-
----
-
-## 📬 Let's Work Together
-
-Got a SaaS idea, a legacy app that needs modernizing, or a product that needs AI features?
-
-**I reply within 24 hours.**
-
-[![Email Me](https://img.shields.io/badge/📧_Email_Me-adarshparmar.business@gmail.com-6366f1?style=for-the-badge)](mailto:adarshparmar.business@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/💼_Connect_on_LinkedIn-0A66C2?style=for-the-badge)](https://www.linkedin.com/in/adarsh-parmar-161960288)
-[![Portfolio](https://img.shields.io/badge/🌐_View_Portfolio-000000?style=for-the-badge)](https://theadarsh-dev.netlify.app/)
+🌍  Remote contracts — full-time or part-time, EST / PST overlap
+🚀  Founding-engineer roles at AI / SaaS startups
+💡  Senior IC roles on Next.js + Supabase teams
+```
 
 ---
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6366f1,100:0f172a&height=100&section=footer" width="100%"/>
+<sub>Currently shipping in public. Watch this profile for weekly updates on AI SaaS architecture, RAG patterns, and production Next.js + Supabase work.</sub>
+
+<br/><br/>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d0d1a,40:1a1040,80:0d2040,100:0a1628&height=120&section=footer" />
 
 </div>

@@ -178,8 +178,8 @@ Got a SaaS idea, a legacy app that needs modernizing, or a product that needs AI
 
 **I reply within 24 hours.**
 
-[![Email Me](https://img.shields.io/badge/%F0%9F%93%A7_Email_Me-adarshparmar.business%40gmail.com-6366f1?style=for-the-badge)](mailto:adarshparmar.business@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/%F0%9F%92%BC_Connect_on_LinkedIn-0A66C2?style=for-the-badge)](https://www.linkedin.com/in/adarsh-parmar-161960288)
+[![Email Me](https://img.shields.io/badge/%F0%9F%93%A7_Email_Me-adarshparmar.dev%40gmail.com-6366f1?style=for-the-badge)](mailto:adarshparmar.dev@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/%F0%9F%92%BC_Connect_on_LinkedIn-0A66C2?style=for-the-badge)](https://www.linkedin.com/in/adarshparmar)
 [![Portfolio](https://img.shields.io/badge/%F0%9F%8C%90_View_Portfolio-21262d?style=for-the-badge)](https://theadarsh-dev.netlify.app/)
 
 ---

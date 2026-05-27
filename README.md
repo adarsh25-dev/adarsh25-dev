@@ -84,14 +84,15 @@ Led 3 zero-downtime AngularJS to Vue.js migrations
   </tr>
   <tr>
     <td valign="top" width="50%">
-      <h3>💻 <a href="https://github.com/adarsh25-dev/vue-quasar-saas-dashboard">Vue Quasar SaaS Dashboard</a></h3>
-      <p>Dark-first, glass-UI SaaS dashboard with i18n in 4 languages, full TypeScript, and rich data visualisation via ApexCharts.</p>
+      <h3>🖥️ <a href="https://github.com/adarsh25-dev/ClientOS">ClientOS — White-label Client Portal</a></h3>
+      <p>Centralized delivery workspace for freelancers and agencies — multi-tenant architecture with AI-powered semantic search over deliverables, version control, inline previews, and per-file status workflows.</p>
       <p>
         <img src="https://img.shields.io/badge/Vue_3-42b883?style=flat-square&logo=vuedotjs&logoColor=white"/>
-        <img src="https://img.shields.io/badge/Quasar_v2-1976D2?style=flat-square&logo=quasar&logoColor=white"/>
-        <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white"/>
         <img src="https://img.shields.io/badge/Pinia-e6c229?style=flat-square"/>
-        <img src="https://img.shields.io/badge/ApexCharts-00897B?style=flat-square"/>
+        <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white"/>
+        <img src="https://img.shields.io/badge/pgvector-4169E1?style=flat-square&logo=postgresql&logoColor=white"/>
+        <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white"/>
+        <img src="https://img.shields.io/badge/GSAP-88CE02?style=flat-square&logo=greensock&logoColor=white"/>
       </p>
     </td>
     <td valign="top" width="50%"></td>
